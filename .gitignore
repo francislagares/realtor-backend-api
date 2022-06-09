@@ -10,6 +10,9 @@
 .pnp.*
 .pnp.js
 
+# env 
+.env
+
 # Logs
 logs
 *.log
